@@ -29,7 +29,7 @@ Give me a Figma file and a deadline and I'll give you something that runs on iOS
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,react,nextjs,vue,ts,js,nodejs,express,fastify,laravel,php,mysql,postgres,firebase,tailwind,docker,git,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,react,nextjs,vue,ts,js,nodejs,express,laravel,php,mysql,postgres,firebase,tailwind,docker,git&perline=9" />
 </p>
 
 ## What I've built

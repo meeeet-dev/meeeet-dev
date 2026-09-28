@@ -44,7 +44,7 @@ Most of my work lives in private client repos, so here's the highlight reel inst
 | **Fintech** | Cross-border money transfer platform with an admin backend | Next.js · Node |
 | **Product platform** | Customer web app, admin panel and API | Next.js · Fastify · TypeScript |
 | **Health & fitness** | Cross-platform fitness app | Flutter · Dart |
-| **EdTech** | School admin panel UI template and a language-learning store | Next.js · Tailwind · Laravel |
+| **EdTech** | School management panel UI template and a language-learning store | Next.js · Tailwind · Laravel |
 | **Media tools** | In-browser video conversion app | Next.js |
 | **Bookings & ops** | Chauffeur booking, order management, real-estate listings, membership portal | Next.js · Laravel · CakePHP |
 
